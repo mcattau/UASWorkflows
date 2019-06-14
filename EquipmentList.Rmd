@@ -1,9 +1,11 @@
 # Equipment List for UAS Fieldwork
 
-This document is a working list of equipment needed for UAS field expeditions using the Pahntom 4 Pro for forest ecological application
+This document is a working list of equipment needed for UAS field expeditions using the Phantom 4 Pro for forest ecological applications
 
+```{r}
+# Equipment needed in the field: 
 ```
-Equipment needed in the field: 
+```
 -	iPad to operate the mission
 -	iPhone as a back-up to operate the mission
 -	UAS body
@@ -31,86 +33,49 @@ Equipment needed in the field:
 -	Umbrella for shading the screen
 -	Notebook
 -	Pen/pencil
+- Semi-permanent markers for GCP locations (e.g., rebar)
+
 ```
 
-\pard\pardeftab720\li720\ri0\partightenfactor0
-\cf0 \
-\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
-\ls2\ilvl0
-\f1 \cf0 \'a5	
-\f0 Maybe also:\
-\pard\pardeftab720\li1440\fi-360\ri0\partightenfactor0
-\ls2\ilvl1
-\f2 \cf0 o	
-\f0 Electricity converters\
-\ls2\ilvl1
-\f2 o	
-\f0 Podium / music stand for computer\
-\ls2\ilvl1
-\f2 o	
-\f0 Plywood or other platform for take-off\
-\ls2\ilvl1
-\f2 o	
-\f0 Calibration target\
-\ls2\ilvl1
-\f2 o	
-\f0 Extender for rc\
-\ls2\ilvl1
-\f2 o	
-\f0 Neck strap\
-\ls2\ilvl1
-\f2 o	
-\f0 Vest or waist pack\
-\pard\pardeftab720\ri0\partightenfactor0
-\cf0 \
-Equipment needed in fieldhouse\
-\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
-\ls3\ilvl1
-\f1 \cf0 \'a5	
-\f0 iPad charger \'96 just an USB wall outlet (and use same USBC to USB cable as above)\
-\ls3\ilvl1
-\f1 \'a5	
-\f0 iPhone charger \'96 just an USB wall outlet (and use same lightning 8-pin to USB cable as above)\
-\ls3\ilvl1
-\f1 \'a5	
-\f0 Solar battery charger \'96 just an USB wall outlet (and use same micro-USB to USB cable as above)\
-\ls3\ilvl1
-\f1 \'a5	
-\f0 Charger for remote control and batteries (3 at a time)\
-\ls3\ilvl1
-\f1 \'a5	
-\f0 External battery charger - USB wall outlet and micro-USB to USB cable (one included above, so bring a second)\
-\ls3\ilvl1
-\f1 \'a5	
-\f0 Computer charger \
-\ls3\ilvl1
-\f1 \'a5	
-\f0 Cable: mini-USB to USB (to connect GPS to computer)\
-\ls3\ilvl1
-\f1 \'a5	
-\f0 Cables and charging equipment for UNAVCO GNSS system\
-\pard\pardeftab720\li360\ri0\partightenfactor0
-\cf0 \
-\pard\pardeftab720\ri0\partightenfactor0
-\cf0 \
-Basics\
-\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
-\ls4\ilvl1
-\f1 \cf0 \'a5	
-\f0 Sunscreen\
-\ls4\ilvl1
-\f1 \'a5	
-\f0 Water\
-\ls4\ilvl1
-\f1 \'a5	
-\f0 Snacks\
-\ls4\ilvl1
-\f1 \'a5	
-\f0 Sunglasses\
-\ls4\ilvl1
-\f1 \'a5	
-\f0 Hat\
-\ls4\ilvl1
-\f1 \'a5	
-\f0 Field clothes\
-}
+```{r}
+# Equipment needed in fieldhouse:
+```
+```
+- iPad charger, just an USB wall outlet (and use same USBC to USB cable as above)
+- iPhone charger, just an USB wall outlet (and use same lightning 8-pin to USB cable as above)
+- Solar battery charger, just an USB wall outlet (and use same micro-USB to USB cable as above)\
+- Charger for remote control and batteries (3 at a time)
+- External battery charger - USB wall outlet and micro-USB to USB cable (one included above, so bring a second)
+- Computer charger 
+- Cable: mini-USB to USB (to connect GPS to computer)
+- Cables and charging equipment for UNAVCO GNSS system
+
+```
+
+```{r}
+#Basics
+```
+```
+- Sunscreen
+- Water
+- Snacks
+- Sunglasses
+- Hat
+- Field clothes
+
+```
+
+```{r}
+# Maybe also:
+```
+```
+- Electricity converters
+- Podium / music stand for computer
+- Plywood or other platform for take-off
+- Calibration target
+- Extender for rc
+- Neck strap
+- Vest or waist pack\
+- LRF / measuring tape
+
+```
