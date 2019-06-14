@@ -12,9 +12,13 @@ output: html_document
 This document is a working checklist guide for UAS field missions using the Phantom 4 Pro for forest ecological applications
 
 
-## Before going into the field
-- Consult the Flight Planning document for planning the mission
+## Before going into the field (at least day or two before)
+- Consult the Flight Planning document for site selection and planning the mission
 - Consult the Equipment List and ensure all items are charged
+- Contact any landowners / managers as a courtesy and to see if there are wildlife closures that aren’t updated online
+- For Cold Springs, Forest Service Permit BOU 512, Use code 422 
+Call the Fort Collins Interagency Dispatch Center 970.295.6800 and the Boulder Regional Communication Center 303.441.4444 to let them know that we'll be there (day, time, est location and duration, as well as contact name and info of on-site lead)
+- Put out NOTAM: https://www.1800wxbrief.com/Website/uoa - at least 24 hours in advance (Cold Springs is center point of 395851.7N1052815.2W with a radius of .4 miles)
 
 ## Field protocol - pre-mission tasks
 - Put all UAS eqipment in a shaded spot if possible
@@ -43,3 +47,9 @@ This document is a working checklist guide for UAS field missions using the Phan
 - Remove the sd card, replace it with a clean one, and transfer data
 - If you are not flying another mission immediately: remove propeller blades and repack them, replace the sensor cover, and repack the UAS
 - Once all missions in that AOI are completed, collect the GCPs and replace them with a permanant marker if desired for subsequent missions
+
+## Post-mission tasks at the office
+- Fill out CU logbook
+- Copy data on external HDs to multiple locations (including S3 buckets)
+- Post-process in Agisoft Metashape (see Agisoft Metashape Notes)
+- Export data and share with collaborators / feed into further analysis. - Cold Springs: send all footage within one month to Mike Johnson mjohnson10@fs.fed.us
