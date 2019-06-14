@@ -1,3 +1,11 @@
+---
+title: "EquipmentList"
+authors: "Megan Cattau"
+# Add your name above
+date: "2019"
+output: html_document
+---
+
 # Equipment List for UAS Fieldwork
 
 This document is a working list of equipment needed for UAS field expeditions using the Phantom 4 Pro for forest ecological applications
