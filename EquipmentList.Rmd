@@ -1,0 +1,128 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 Cochin;\f1\ftech\fcharset77 Symbol;\f2\fmodern\fcharset0 CourierNewPSMT;
+}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid102\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid202\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid302\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid4}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri0\partightenfactor0
+
+\f0\b\fs24 \cf0 Equipment List for UAS Fieldwork\
+\pard\pardeftab720\ri0\partightenfactor0
+
+\b0 \cf0 \
+Equipment needed in the field\
+\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
+\ls1\ilvl0\cf0 -	iPad to operate the mission\
+-	iPhone as a back-up to operate the mission\
+-	UAS body\
+-	UAS batteries x 5\
+-	Cooler for batteries\
+-	UAS propeller blades x 8 (4 as back-ups)\
+-	UAS remote control\
+-	Brush for lens\
+-	microSD card x 2\
+-	microSD to SD card converter\
+-	Cable: USBC to USB (for connecting iPad to remote control, to solar and external batteries, and to USB wall outlet for charging)\
+-	Cable: Lightning 8-pin to USB (for connecting iPhone to remote control, to solar and external batteries, and to USB wall outlet for charging)\
+-	Cable: micro-USB to USB (for connecting solar and external batteries to USB wall outlet for charging and for connecting UAS directly to a computer (if transferring data directly from UAS rather than extracting the SD card and reading it \'96 not recommended, but good to have just in case)\
+-	Solar battery for phone or iPad charging\
+-	External battery for phone or iPad charging\
+-	Computer to read data onto external HD\
+-	SD card reader \
+-	USBC adapter x 2 for external HD and SD card readers\
+-	External HD x 2 to transfer data after each flight \'96 3TB each\
+-	Ground control points x >=15\
+-	UNAVCO GNSS system equipment for marking GCPs\
+-	GPS for marking GCPs or other boundaries\
+-	Extra GPS batteries (AA) x a bunch\
+-	Plastic bags for SD cards\
+-	Umbrella for shading the screen\
+-	Notebook\
+-	Pen/pencil\
+\pard\pardeftab720\li720\ri0\partightenfactor0
+\cf0 \
+\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
+\ls2\ilvl0
+\f1 \cf0 \'a5	
+\f0 Maybe also:\
+\pard\pardeftab720\li1440\fi-360\ri0\partightenfactor0
+\ls2\ilvl1
+\f2 \cf0 o	
+\f0 Electricity converters\
+\ls2\ilvl1
+\f2 o	
+\f0 Podium / music stand for computer\
+\ls2\ilvl1
+\f2 o	
+\f0 Plywood or other platform for take-off\
+\ls2\ilvl1
+\f2 o	
+\f0 Calibration target\
+\ls2\ilvl1
+\f2 o	
+\f0 Extender for rc\
+\ls2\ilvl1
+\f2 o	
+\f0 Neck strap\
+\ls2\ilvl1
+\f2 o	
+\f0 Vest or waist pack\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 \
+Equipment needed in fieldhouse\
+\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
+\ls3\ilvl1
+\f1 \cf0 \'a5	
+\f0 iPad charger \'96 just an USB wall outlet (and use same USBC to USB cable as above)\
+\ls3\ilvl1
+\f1 \'a5	
+\f0 iPhone charger \'96 just an USB wall outlet (and use same lightning 8-pin to USB cable as above)\
+\ls3\ilvl1
+\f1 \'a5	
+\f0 Solar battery charger \'96 just an USB wall outlet (and use same micro-USB to USB cable as above)\
+\ls3\ilvl1
+\f1 \'a5	
+\f0 Charger for remote control and batteries (3 at a time)\
+\ls3\ilvl1
+\f1 \'a5	
+\f0 External battery charger - USB wall outlet and micro-USB to USB cable (one included above, so bring a second)\
+\ls3\ilvl1
+\f1 \'a5	
+\f0 Computer charger \
+\ls3\ilvl1
+\f1 \'a5	
+\f0 Cable: mini-USB to USB (to connect GPS to computer)\
+\ls3\ilvl1
+\f1 \'a5	
+\f0 Cables and charging equipment for UNAVCO GNSS system\
+\pard\pardeftab720\li360\ri0\partightenfactor0
+\cf0 \
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 \
+Basics\
+\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
+\ls4\ilvl1
+\f1 \cf0 \'a5	
+\f0 Sunscreen\
+\ls4\ilvl1
+\f1 \'a5	
+\f0 Water\
+\ls4\ilvl1
+\f1 \'a5	
+\f0 Snacks\
+\ls4\ilvl1
+\f1 \'a5	
+\f0 Sunglasses\
+\ls4\ilvl1
+\f1 \'a5	
+\f0 Hat\
+\ls4\ilvl1
+\f1 \'a5	
+\f0 Field clothes\
+}
