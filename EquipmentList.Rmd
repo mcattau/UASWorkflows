@@ -2,11 +2,9 @@
 
 This document is a working list of equipment needed for UAS field expeditions using the Phantom 4 Pro for forest ecological applications
 
-```{r}
-# Equipment needed in the field: 
-```
-```
--	iPad to operate the mission
+## Equipment needed in the field: 
+
+- iPad to operate the mission
 -	iPhone as a back-up to operate the mission
 -	UAS body
 -	UAS batteries x 5
@@ -35,12 +33,9 @@ This document is a working list of equipment needed for UAS field expeditions us
 -	Pen/pencil
 - Semi-permanent markers for GCP locations (e.g., rebar)
 
-```
 
-```{r}
-# Equipment needed in fieldhouse:
-```
-```
+## Equipment needed in fieldhouse:
+
 - iPad charger, just an USB wall outlet (and use same USBC to USB cable as above)
 - iPhone charger, just an USB wall outlet (and use same lightning 8-pin to USB cable as above)
 - Solar battery charger, just an USB wall outlet (and use same micro-USB to USB cable as above)\
@@ -50,12 +45,9 @@ This document is a working list of equipment needed for UAS field expeditions us
 - Cable: mini-USB to USB (to connect GPS to computer)
 - Cables and charging equipment for UNAVCO GNSS system
 
-```
 
-```{r}
-#Basics
-```
-```
+## Basics
+
 - Sunscreen
 - Water
 - Snacks
@@ -63,12 +55,9 @@ This document is a working list of equipment needed for UAS field expeditions us
 - Hat
 - Field clothes
 
-```
 
-```{r}
-# Maybe also:
-```
-```
+## Maybe also:
+
 - Electricity converters
 - Podium / music stand for computer
 - Plywood or other platform for take-off
@@ -77,5 +66,3 @@ This document is a working list of equipment needed for UAS field expeditions us
 - Neck strap
 - Vest or waist pack\
 - LRF / measuring tape
-
-```
