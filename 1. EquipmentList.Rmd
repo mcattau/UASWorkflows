@@ -32,7 +32,12 @@ This document is a working list of equipment needed for UAS field expeditions us
 -	USBC adapter x 2 for external HD and SD card readers
 -	External HD x 2 to transfer data after each flight, 3TB each
 -	Ground control points x >=15
--	UNAVCO GNSS system equipment for marking GCPs
+-	UNAVCO GNSS system equipment for marking GCPs:
+    Antennae
+    Antennae pole
+    Receiver
+    Controller
+    Cord receiver to antennae
 -	GPS for marking GCPs or other boundaries
 -	Extra GPS batteries (AA) x a bunch
 -	Plastic bags for SD cards
