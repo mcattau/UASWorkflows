@@ -22,6 +22,7 @@ This document is a working list of equipment needed for UAS field expeditions us
 -	Brush for lens
 -	microSD card x 2
 -	microSD to SD card converter
+- Neck strap
 -	Cable: USBC to USB (for connecting iPad to remote control, to solar and external batteries, and to USB wall outlet for charging)
 -	Cable: Lightning 8-pin to USB (for connecting iPhone to remote control, to solar and external batteries, and to USB wall outlet for charging)
 -	Cable: micro-USB to USB (for connecting solar and external batteries to USB wall outlet for charging and for connecting UAS directly to a computer (if transferring data directly from UAS rather than extracting the SD card and reading it; not recommended, but good to have just in case)
@@ -71,11 +72,9 @@ This document is a working list of equipment needed for UAS field expeditions us
 
 ## Maybe also:
 
-- Electricity converters
 - Podium / music stand for computer
 - Plywood or other platform for take-off
 - Calibration target
 - Extender for rc
-- Neck strap
-- Vest or waist pack\
+- Vest or waist pack
 - LRF / measuring tape
