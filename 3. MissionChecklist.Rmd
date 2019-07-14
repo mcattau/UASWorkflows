@@ -50,6 +50,7 @@ Call the Fort Collins Interagency Dispatch Center 970.295.6800 and the Boulder R
 
 ## Post-mission tasks at the office
 - Fill out CU logbook
-- Copy data on external HDs to multiple locations (including S3 buckets)
+- Copy drone and GCP data on external HDs to multiple locations (including S3 buckets)
+- Upload flight logs to Maps Made Easy with Flight Sync (should happen automatically when connected to internet if signed into Maps Made Easy account and Flight Sync enabled in Map Pilot settings) or to AirData if you want to open an account.
 - Post-process in Agisoft Metashape (see Agisoft Metashape Notes)
 - Export data and share with collaborators / feed into further analysis. - Cold Springs: send all footage within one month to Mike Johnson mjohnson10@fs.fed.us
